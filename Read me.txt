@@ -4,6 +4,7 @@ Email:  azc.pavel@gmail.com
 Date:   2014-02-05
 Mobile: +8801677533818
 
+Extract & Put ckeditor folder in your js folder [you can change the dir from helper file]
 
 Put the helper file in to application/helpers
 
