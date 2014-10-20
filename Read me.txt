@@ -1,4 +1,3 @@
-```
 This is a extend copy of ckeditor for codeigniter
 Modified by Pavel
 Email:  azc.pavel@gmail.com
@@ -77,4 +76,3 @@ List of Toolbars
 	{ name: 'colors', items : [ 'TextColor','BGColor' ] },
 	{ name: 'tools', items : [ 'Maximize', 'ShowBlocks','-','About' ] }
 ];	
-```
